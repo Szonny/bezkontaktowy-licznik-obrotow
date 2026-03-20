@@ -1,0 +1,29 @@
+-1x LCD 2x16 NHD-0216HZ-FSW-33V3C	
+-1x czujnik halla DRV5053-Q1	
+-1x Stabilizator LF33ABV	
+-1x ATtiny 4313			
+-2x Przełącznik x1		
+-1x Przełącznk  x3		
+-1x Kwarc 8MHz
+-2x Komparator LM393P		
+-2x Dioda Zenera 3,3V
+-2x Dioda prostownicza
+-1x Dioda Schottkego	
+-2x LED czerwona 	
+-1x LED zielona 	
+-1x LED żółta 		
+-1x potencjometr 10k			
+-3x przyciski "tact-switch" 
+-2x Rezystor 15k				
+-5x Rezystor 10k 		
+-10x Rezystor 5k
+-2x Rezystor 4.7k
+-2x Rezystor 47 
+-2x Kondensator 0.1u 	
+-1x Kondensator 10u	
+-2x Kondensator 22p		
+-2x gniazdo RJ45			
+-1x Moduł BMI160 z I2C		
+-1x koszyczek na baterie	
+-1x gniazdo na procesor	
+-1x Tranzystor NPN	
